@@ -1,0 +1,40 @@
+
+.logo{
+    position:absolute;
+    width: 70px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background-position: 0px 0px;
+}
+.navigation-bar{
+    padding-left: 55px;
+    padding-top: 0px;
+}
+
+body{
+    /*position:absolute;*/
+    margin: 0 auto;
+    background: #f3f3f3;
+}
+
+.main{
+    background: #fff;
+    width: 730px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.container-fluid{
+    left: 100px;
+    top: 0;
+}
+
+.page-title{
+    text-align: center;
+}
+
+.active1{
+    position:absolute;
+    top: 0px;
+}
